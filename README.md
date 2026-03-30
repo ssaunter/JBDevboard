@@ -1,5 +1,5 @@
 # JBDevboard
-A custom RP2040 dev board utilizing a NCP1117 LDO. This project is a modified version of the RP2040 devboard project by [Kai Pereira](https://github.com/KaiPereira/build-a-devboard), which has served as a great resource for learning about devboard production. 
+A custom RP2040 dev board utilizing a NCP1117 LDO. This project is a modified version of the RP2040 devboard project by [Kai Pereira](https://github.com/KaiPereira/build-a-devboard), which has served as a great resource for learning about devboard production. This board is essentially a clone of a Raspberry Pi RP2040 board.
 
 Here is a look at the current build:
 
