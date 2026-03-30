@@ -3,22 +3,22 @@ A custom RP2040 dev board utilizing a NCP1117 LDO. This project is a modified ve
 
 Here is a look at the current build:
 
-![First Design](images/fulldevboard.png)
+![First Design](Images/fulldevboard.png)
 
 The large IC near the back of the board, labeled U2, is the NCP1117. It is capable of providing an output current of 1.0 A, which is an upgrade from the LDOs in the tutorial, which has a max output current of 250 mA.
 
 Here's the schematic:
 ---
 
-![Schematic Design](images/schematic.png)
+![Schematic Design](Images/schematic.png)
 
 
 And here's what the trace layers look like:
 ---
 
-![Schematic Design](images/front.png)
+![Schematic Design](Images/front.png)
 
-![Schematic Design](images/back.png)
+![Schematic Design](Images/back.png)
 
 ---
 ### Bill of Materials
