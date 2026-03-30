@@ -38,15 +38,15 @@ And here's what the trace layers look like:
 | **1k R 0402** | 2 | $0.10 | [DigiKey](https://www.digikey.com/short/ptpr3b5v) |
 | **10k R 0402** | 1 | $0.10 |[DigiKey](https://www.digikey.com/short/1bqf9rrt) |
 | **0.1uF C 0402** | 11 | $0.03 |[DigiKey](https://www.digikey.com/short/prnwd7b4) |
-| **1uF C 0402** | 1 | $0.08 | [DigiKey](https://www.digikey.com/short/23b8qv93) |
+| **1uF C 0402** | 1 | $0.08 | [DigiKey](https://www.digikey.com/short/bh2hq3n5) |
 | **33pF C 0402** | 2 | $0.10 |[DigiKey](https://www.digikey.com/short/87qt971h) |
 | **10uF C 0603** | 2 | $0.47 |[DigiKey](https://www.digikey.com/short/22nm5zq0) |
-| **Push Button** | 1 | $0.41 | [DigiKey](https://www.digikey.com/short/5jt4np99) |
+| **Push Button** | 1 | $0.41 | [DigiKey](https://www.digikey.com/short/8bz14998) |
 | **PCB** | 1 | $2.10 | [JCLPCB](https://jlcpcb.com/) |
 | **PCB Stencil** | 1 | $7.11 | [JCLPCB](https://jlcpcb.com/) |
-| **JLCPCB Shipping** |  | ~$5.00 | |
-| **DigiKey Shipping** |  | ~$12.00 | 
-| **TOTAL** |  | $35.24 |
+| **JLCPCB Tax + Shipping** |  | ~$20.31 | |
+| **DigiKey Tax + Shipping** |  | ~$8.56 | 
+| **TOTAL** |  | $46.12 |
 
 
 
